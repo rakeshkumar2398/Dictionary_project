@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 Dictionary={}
 while True:
     print("/nDictionary Menu")
@@ -53,24 +47,3 @@ while True:
         break
     else:
         print(f"Invalid Input '{option}'")
-
-
-# In[ ]:
-
-
-
-
-
-# 
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
